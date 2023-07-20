@@ -4,7 +4,7 @@ Data source : https://www.kaggle.com/arjunbhasin2013/ccdata
 
 A machine learning model (K-Means) was developed to segment the banks customers into 8 segments in order to help the marketing develop tailored campaigns and products that are more suiltable to each segment. 
 
-# About Dataset 
+## About Dataset 
 CUST_ID : Identification of Credit Card holder (Categorical)
 BALANCE : Balance amount left in their account to make purchases (
 BALANCE_FREQUENCY : How frequently the Balance is updated, score between 0 and 1 (1 = frequently updated, 0 = not frequently updated)
